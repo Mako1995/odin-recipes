@@ -1,9 +1,12 @@
 
-div {
-    background-color:red !important;
-}
-
-
-p {
+body {
     color: red;
+    background-color: orange;
 }
+
+/* Below you don't currently need due to using body tag above for the color changes. This will change everything within the body which is everything. 
+If you removed the color bit from above then you could use the bits below to make only 'p' and 'li' use the red color. */
+
+/* p, li {
+    color: red;
+} */
