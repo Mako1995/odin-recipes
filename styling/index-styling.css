@@ -1,9 +1,11 @@
 
-div {
-    background-color:red !important;
+body {
+    background-color:black !important;
 }
 
+h1 {color: white;
+}
 
 p {
-    color: red;
+    color: white;
 }
